@@ -246,3 +246,6 @@ This repository serves as the official landing page for Nearby Share. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Nearby Share today!**
+
+---
+**Last updated:** 2026-09-11 17:30:50 UTC
